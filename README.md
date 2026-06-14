@@ -1,4 +1,4 @@
-# CrossRAFT: Complex‑Valued Neural Network for Ultrasound Motion Estimation
+# CrossRAFT: Cross-Domain Complex-Valued Feature Extraction for Ultrasound Motion Estimation
 
 This repository contains the official implementation of **CrossRAFT**, an end‑to‑end trainable network for sub‑sample motion estimation directly from complex‑valued ultrasound signals (analytic or IQ data). The method is built upon the RAFT architecture and uses complex‑valued feature encoders with a custom correlation module to preserve phase information, enabling accurate 2D displacement estimation.
 
